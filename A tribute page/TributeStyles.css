@@ -1,0 +1,42 @@
+
+#maindiv{
+    background-color: #e0e0d0;
+    margin:50px 200px 50px 200px;
+    border:solid 10px deeppink;
+    border-radius:30px;
+}
+#name
+{
+    font-size:70px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:center;
+    padding-top:50px;
+}
+#name2{
+    font-size:25px;
+    text-align:center;
+}
+
+#timeline{
+    background-color: #c0c0c0;
+    color:black;
+    font-size:50px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top:15px;
+}
+pre{
+    color:black;
+    font-size:15px;
+    font-family: Helvetica;
+    margin-top:15px;
+    background: #A0A0A0;
+}
+footer{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size:25px;
+    margin-bottom:20px;
+
+}
